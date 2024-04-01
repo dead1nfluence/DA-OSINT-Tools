@@ -54,6 +54,9 @@ Finds subdomains associated with a domain, identifies whether or not they are pr
 Command line tool used for identifying subdomains, pretty good in my experience.
 > https://github.com/aboul3la/Sublist3r
 
+### Shosubgo
+Small tool to Grab subdomains using Shodan API. 
+> https://github.com/incogbyte/shosubgo
 
 # Infrastructure 
 
@@ -64,6 +67,10 @@ Great for viewing detailed information about networking, protocols, finding simi
 ### Shodan
 Similar to Censys, I prefer Censys however because no account is needed and Shodan seems to fluctuate in terms of its quality.
 > https://shodan.io
+
+### Karmav2
+K𝚊𝚛𝚖𝚊 𝚟𝟸 can be used by Infosec Researchers, Penetration Testers, Bug Hunters to find deep information, more assets, WAF/CDN bypassed IPs, Internal/External Infra, Publicly exposed leaks and many more about their target. Shodan Premium API key is required to use this automation. Output from the 𝚔𝚊𝚛𝚖𝚊 𝚟𝟸 is displayed to the screen and saved to files/directories. 
+> https://github.com/Dheerajmadhukar/karma_v2
 
 
 # Other 
