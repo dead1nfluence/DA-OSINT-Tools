@@ -72,6 +72,10 @@ Similar to Censys, I prefer Censys however because no account is needed and Shod
 K𝚊𝚛𝚖𝚊 𝚟𝟸 can be used by Infosec Researchers, Penetration Testers, Bug Hunters to find deep information, more assets, WAF/CDN bypassed IPs, Internal/External Infra, Publicly exposed leaks and many more about their target. Shodan Premium API key is required to use this automation. Output from the 𝚔𝚊𝚛𝚖𝚊 𝚟𝟸 is displayed to the screen and saved to files/directories. 
 > https://github.com/Dheerajmadhukar/karma_v2
 
+### Built With
+Website technology identifier and includes relationships with other domains based on analytics data. 
+> https://builtwith.com/
+
 
 # Other 
 
