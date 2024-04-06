@@ -1,3 +1,9 @@
+# ASN
+
+### Hurricane Electric
+Search for reserved IP addresses by company name. 
+> https://bgp.he.net/
+
 # Whois Records 
 
 ### DomainTools
@@ -76,6 +82,9 @@ K𝚊𝚛𝚖𝚊 𝚟𝟸 can be used by Infosec Researchers, Penetration Teste
 Website technology identifier and includes relationships with other domains based on analytics data. 
 > https://builtwith.com/
 
+### Smap 
+Smap is a port scanner built with Shodan's free API. It takes the same command line arguments as nmap and produces the same output, making it a passive replacement for Nmap.
+> https://github.com/s0md3v/Smap
 
 # Other 
 
